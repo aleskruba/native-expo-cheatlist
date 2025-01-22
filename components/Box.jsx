@@ -14,7 +14,10 @@ export const styles = StyleSheet.create({
 
     box:{
         backgroundColor:"lightgray",
-        padding:10
+        padding:10,
+        flexGrow:1,
+   
+
    
     },
     text:{
